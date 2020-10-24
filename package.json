@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-template",
+  "version": "1.0.0",
+  "description": "这是个人的 vue-cli 模板， 将工作和学习到的最佳实践以及配置集成到这个模板中，提高之后的开发同时也记录vue最佳的实践。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arrow-zb/vue-cli-template.git"
+  },
+  "keywords": [],
+  "author": "paopao-arrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arrow-zb/vue-cli-template/issues"
+  },
+  "homepage": "https://github.com/Arrow-zb/vue-cli-template#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
