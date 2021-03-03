@@ -1,6 +1,6 @@
 {
   "name": "@arrow-zb/cli-template",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "仓库为脚手架的 template",
   "main": "index.js",
   "scripts": {
