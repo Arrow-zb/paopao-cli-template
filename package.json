@@ -1,11 +1,12 @@
 {
-  "name": "cli-template",
-  "private": true,
-  "version": "1.0.0",
+  "name": "@arrow-zb/cli-template",
+  "version": "0.0.3",
   "description": "仓库为脚手架的 template",
   "main": "index.js",
   "scripts": {
-    "bootstrap": "npx lerna bootstrap",
+    "bootstrap": "lerna bootstrap",
+    "updated": "lerna updated",
+    "publish": "lerna publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,13 +14,17 @@
     "url": "git+https://github.com/arrow-zb/cli-template.git"
   },
   "keywords": [],
-  "author": "paopao-arrow",
+  "author": "arrow-zb",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arrow-zb/cli-template/issues"
   },
   "homepage": "https://github.com/arrow-zb/cli-template#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
     "lerna": "^4.0.0"
   }
 }

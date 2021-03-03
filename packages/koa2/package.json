@@ -1,13 +1,13 @@
 {
-  "name": "server",
-  "version": "1.0.0",
+  "name": "@arrow-zb/koa2",
+  "version": "0.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js"
   },
   "keywords": [],
-  "author": "paopao-arrow",
+  "author": "arrow-zb",
   "license": "MIT",
   "dependencies": {
     "@koa/multer": "^3.0.0",
@@ -20,5 +20,8 @@
     "multer": "^1.4.2",
     "mysql2": "^2.2.5",
     "sequelize": "^6.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
