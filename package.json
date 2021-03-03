@@ -1,0 +1,24 @@
+{
+  "name": "cli-template",
+  "version": "1.0.0",
+  "description": "仓库为脚手架的 template",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npx lerna bootstrap",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrow-zb/cli-template.git"
+  },
+  "keywords": [],
+  "author": "paopao-arrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arrow-zb/cli-template/issues"
+  },
+  "homepage": "https://github.com/arrow-zb/cli-template#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
