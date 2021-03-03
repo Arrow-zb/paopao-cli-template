@@ -1,5 +1,6 @@
 {
   "name": "cli-template",
+  "private": true,
   "version": "1.0.0",
   "description": "仓库为脚手架的 template",
   "main": "index.js",
