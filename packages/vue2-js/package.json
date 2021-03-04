@@ -107,5 +107,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arrow-zb/cli-template.git"
-  }
+  },
+  "gitHead": "bf1f75f58674faaf820a5b4b4b3c33c9175b413b"
 }
