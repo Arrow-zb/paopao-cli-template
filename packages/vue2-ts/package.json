@@ -1,6 +1,6 @@
 {
   "name": "@arrow-zb/vue2-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "arrow-zb",
   "scripts": {
     "serve": "concurrently \"npm:mock\" \"vue-cli-service serve\"",
@@ -72,8 +72,8 @@
     "@types/sortablejs": "^1.10.6",
     "@types/tinymce": "^4.6.0",
     "@types/vue-splitpane": "^1.0.1",
-    "@types/webpack-env": "^1.15.3",
     "@types/vuedraggable": "^2.23.2",
+    "@types/webpack-env": "^1.15.3",
     "@types/yamljs": "^0.2.31",
     "@typescript-eslint/eslint-plugin": "^4.6.1",
     "@typescript-eslint/parser": "^4.6.1",
